@@ -1,5 +1,7 @@
 # 💰 Artha – Smart Finance Management Companion App
 
+🚀 **Live Demo:** [Watch Here](https://drive.google.com/file/d/1u0n9Yh5a2pcRRamr_q8l8B8NfEC-yq_B/view?usp=drive_link)
+
 ## 📌 Overview
 
 **Artha** is a modern fintech-style mobile application designed to help users efficiently manage their finances. It provides real-time expense tracking, budget monitoring, and insightful analytics through a clean and intuitive user interface.
